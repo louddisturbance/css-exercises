@@ -1,0 +1,19 @@
+.type-1 {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#blue-text {
+    color: blue;
+    font-size: 36px;
+}
+
+#large-text {
+    font-size: 24px;
+}
+
+#green-background {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
