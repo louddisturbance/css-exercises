@@ -46,3 +46,39 @@ a {
 ul {
   list-style-type: none;
 }
+
+/* my changes */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
+
+.header-left,
+.header-right {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+
+ul {
+  display: flex;
+  gap: 16px;
+  margin: 0px;
+  /* margin: 8px; */
+  padding: 0px;
+}
+
+/* .logo {
+  margin: 8px;
+} */
+
+/* button.notifications {
+  margin: 8px;
+}
+
+.profile-image {
+  margin: 8px;
+} */
